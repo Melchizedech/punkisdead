@@ -5,18 +5,17 @@
     <meta charset="utf-8">
     <meta name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    <% title = 'Punk is Dead' %>
     <% if current_article %>
-      <% title = 'Punk is Dead - ' + current_article.title %>
+      <% title += ' - ' + current_article.title %>
       <meta name="twitter:card" content="summary_large_image">
       <meta name="twitter:site" content="@assopunkisdead">
       <meta name="twitter:title" content="<%= current_article.title %>">
       <meta name="twitter:description" content="<%= current_article.data.description %>">
       <meta name="twitter:image" content="https://punkisdead.fr<%= current_page.url + current_article.data.image %>">
-    <% else %>
-      <title>Punk is Dead</title>
     <% end %>
 
+    <title><%= title %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
 
     <%= stylesheet_link_tag "site" %>
