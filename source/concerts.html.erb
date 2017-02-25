@@ -8,13 +8,13 @@
   <% end %>
 <% end %>
 
-<% articles = blog.articles.select{ |a| a.data.concert_date > Time.now.at_midnight} %>
+<% articles = blog.articles.select{ |a| a.data.concert_date && a.data.concert_date > Time.now.at_midnight} %>
 
 <% if articles.empty? %>
   <p>Hélas, rien de prévu pour le moment ! Mais ça ne saurait trop tarder. Dans le doute, si tu veux nous proposer quelque chose, <%= link_to 'n\'hésite pas', '/contact.html' %>.</p>
 <% else %>
   <ul>
-    <% blog.articles.select{ |a| a.data.concert_date > Time.now.at_midnight}.each do |article, i| %>
+    <% articles.each do |article, i| %>
       <li><%= link_to article.title, article %> <span><%= article.data.concert_date.strftime('%b %e') %></span></li>
     <% end %>
   </ul>
