@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+  <head>
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title>Punk is Dead<%= ' - ' + current_article.title unless current_article.nil? %></title>
+    <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
+
+    <%= stylesheet_link_tag "site" %>
+    <%= javascript_include_tag "site" %>
+  </head>
+
+  <body class="<%= page_classes %>">
+
+    <!-- Header -->
+    <nav class="navbar-inverse navbar-default navbar-fixed-top">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <a class="navbar-brand" href="/">Punk is Dead <small>association promouvant la scène punk dans les Alpes-Maritimes</small></a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div>
+          <ul class="nav navbar-nav navbar-right">
+            <li><%= link_to 'Accueil', '/' %></li>
+            <li><%= link_to 'Prochains concerts', '/concerts.html' %></li>
+            <li><%= link_to 'Contact', '/contact.html' %></li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
+    <!-- End of Header -->
+
+    <!-- Menu -->
+    <div id="menu" class="col-md-offset-1 col-md-3 affix">
+      <h2>Conseils</h2>
+      <%= partial 'conseils' %>
+
+      <h2>Archives</h2>
+      <%= partial 'archives' %>
+
+      <h2>Liens</h2>
+      <%= partial 'liens' %>
+
+    </div>
+    <!-- End of menu -->
+
+    <!-- Content -->
+    <div id="content" class="col-md-8">
+      <%= yield %>
+    </div>
+    <!-- End of Content -->
+  </body>
+</html>

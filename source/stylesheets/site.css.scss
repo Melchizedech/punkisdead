@@ -1,0 +1,33 @@
+@import "bootstrap";
+
+body { padding-top: 50px; }
+
+
+#content {
+  text-align: justify;
+  padding-top: 5%;
+  float: right;
+  padding-right: 30%;
+}
+
+#menu {
+  padding-top: 5%;
+}
+
+.archives {
+  padding-left: 10px;
+}
+
+a {
+  color: rgba(#000, 0.7);
+
+  &:focus,
+  &:hover {
+    color: rgba(#000, 0.6);
+  }
+}
+
+.middleman-logo {
+  margin-bottom: 1rem;
+  width: 10rem;
+}

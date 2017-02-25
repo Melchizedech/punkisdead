@@ -1,0 +1,27 @@
+<h2>Liste des prochains concerts</h2>
+
+<% if paginate && num_pages > 1 %>
+  <p>Page <%= page_number %> of <%= num_pages %></p>
+
+  <% if prev_page %>
+    <p><%= link_to 'Previous page', prev_page %></p>
+  <% end %>
+<% end %>
+
+<% articles = blog.articles.select{ |a| a.data.concert_date > Time.now.at_midnight} %>
+
+<% if articles.empty? %>
+  <p>Hélas, rien de prévu pour le moment ! Mais ça ne saurait trop tarder. Dans le doute, si tu veux nous proposer quelque chose, <%= link_to 'n\'hésite pas', '/contact.html' %>.</p>
+<% else %>
+  <ul>
+    <% blog.articles.select{ |a| a.data.concert_date > Time.now.at_midnight}.each do |article, i| %>
+      <li><%= link_to article.title, article %> <span><%= article.data.concert_date.strftime('%b %e') %></span></li>
+    <% end %>
+  </ul>
+<% end %>
+
+<% if paginate %>
+  <% if next_page %>
+    <p><%= link_to 'Next page', next_page %></p>
+  <% end %>
+<% end %>

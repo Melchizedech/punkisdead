@@ -1,0 +1,19 @@
+<ul>
+  <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
+  <li><%= link_to year, blog_year_path(year) %> (<%= articles.size %>)</li>
+    <% if year == Time.now.year %>
+      <ul class="archives">
+        <% articles.group_by { |a| a.date.month }.each do |month, articles_m| %>
+          <li><%= link_to Date::MONTHNAMES[month], blog_month_path(year, month) %> (<%= articles_m.size %>)</li>
+          <% if month == Time.now.month %>
+            <ul class="archives">
+              <% articles_m.each do |a| %>
+                <li><%= link_to a.title, a %></li>
+              <% end %>
+            </ul>
+          <% end %>
+        <% end %>
+      </ul>
+    <% end %>
+  <% end %>
+</ul>
