@@ -41,7 +41,7 @@ Les mélodies sont puissantes, entraînantes. Préférence personnelle, j'adore 
 
 Vous pouvez trouver une interview de Julien (guitariste-chanteur) à cette adresse : [https://boringxemo.blogspot.fr/2016/08/julien-paget-on-essential-daitros_15.html]()
 
-Daïtro a arrêté toutefois, dommage ! Mais, les membres du groupes ont PLEIN d'autres projets : [**Baton Rouge**](https://batonrougeband.bandcamp.com/) (RIP), [**12XU**](https://12xu.bandcamp.com/), [**Abject Object**](https://abjectobject.bandcamp.com/), [**TORINO**](https://wearetorino.bandcamp.com/) et [**Potence**](https://potence.bandcamp.com).
+Daïtro a arrêté toutefois, dommage ! Mais, les membres du groupe ont PLEIN d'autres projets : [**Baton Rouge**](https://batonrougeband.bandcamp.com/) (RIP), [**12XU**](https://12xu.bandcamp.com/), [**Abject Object**](https://abjectobject.bandcamp.com/), [**TORINO**](https://wearetorino.bandcamp.com/) et [**Potence**](https://potence.bandcamp.com).
 
 Le petit mot de la fin : si vous savez où récupérer des versions physiques de Daïtro, envoyez-moi un [**mail**](mailto:asso@punkisdead.fr).
 Pas la peine pour *Y* toutefois, je remercie la personne qui me l'a offert, tu te reconnaîtras si un jour tu passes par là.

@@ -11,7 +11,7 @@
 <% articles = blog.articles.select{ |a| a.data.concert_date && a.data.concert_date > Time.now.at_midnight} %>
 
 <% if articles.empty? %>
-  <p>Hélas, rien de prévu pour le moment ! Mais ça ne saurait trop tarder. Dans le doute, si tu veux nous proposer quelque chose, <%= link_to 'n\'hésite pas', '/contact.html' %>.</p>
+  <p>Hélas, rien de prévu pour le moment ! Mais ça ne saurait trop tarder. Dans le doute, si tu veux nous proposer quelque chose, <b><%= link_to 'n\'hésite pas', '/contact.html' %></b>.</p>
 <% else %>
   <ul>
     <% articles.each do |article, i| %>
