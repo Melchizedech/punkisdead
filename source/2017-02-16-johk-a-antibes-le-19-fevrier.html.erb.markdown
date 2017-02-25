@@ -5,6 +5,8 @@ concert_date: 2017-02-19
 tags: concerts, park in son, kubiak, johk, punk
 categories: concerts
 author: jeff
+image: flyer.jpeg
+description: "Événement : concert à Antibes (Johk, Kubiak et Park in Son) le 19 février / PAF 3€"
 ---
 
 ![Flyer](2017-02-16-johk-a-antibes-le-19-fevrier/flyer.jpeg)

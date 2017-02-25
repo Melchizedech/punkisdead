@@ -1,10 +1,11 @@
 #!/bin/bash
 
 echo "Building"
-middleman build --clean
+middleman build --clean --verbose
 if [[ ! $? -eq 0 ]]
 then
   echo "Could not build website, exiting."
+  exit 1
 fi
 echo "Tarzipping website"
 tar zcf punkisdead.tar.gz build

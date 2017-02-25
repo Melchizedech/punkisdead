@@ -19,7 +19,7 @@ page '/*.txt', layout: false
 ###
 # Helpers
 ###
-
+activate :directory_indexes
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
   # blog.prefix = "blog"
