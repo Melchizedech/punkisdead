@@ -38,4 +38,4 @@ Lien vers l’[**évènement Facebook**](https://www.facebook.com/events/2568583
 ####Accès à la salle
 La Hacienda Rocks (2721 Chemin de Saint-Claude, Antibes)
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=7.085484266281129%2C43.60144943492461%2C7.089024782180787%2C43.60322664382881&amp;layer=mapnik&amp;marker=43.602338045939184%2C7.087254524230957" style="border: 1px solid black"></iframe>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=7.085484266281129%2C43.60144943492461%2C7.089024782180787%2C43.60322664382881&amp;layer=mapnik&amp;marker=43.602338045939184%2C7.087254524230957" class="openstreetmap"></iframe>
