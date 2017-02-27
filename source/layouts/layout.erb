@@ -43,24 +43,27 @@
     </nav>
     <!-- End of Header -->
 
-    <!-- Menu -->
-    <div id="menu" class="col-md-offset-1 col-md-3 affix">
-      <h2>Conseils</h2>
-      <%= partial 'conseils' %>
+    <div style="container">
+      <!-- Menu -->
+        <div id="menu" class="pull-left col-xs-4 col-md-4">
+          <div class="pull-right col-md-6">
+          <h2>Conseils</h2>
+          <%= partial 'conseils' %>
 
-      <h2>Archives</h2>
-      <%= partial 'archives' %>
+          <h2>Archives</h2>
+          <%= partial 'archives' %>
 
-      <h2>Liens</h2>
-      <%= partial 'liens' %>
+          <h2>Liens</h2>
+          <%= partial 'liens' %>
+        </div>
+      </div>
+      <!-- End of menu -->
 
+      <!-- Content -->
+      <div id="content" class="col-xs-8 col-md-8">
+        <%= yield %>
+      </div>
+      <!-- End of Content -->
     </div>
-    <!-- End of menu -->
-
-    <!-- Content -->
-    <div id="content" class="col-md-8">
-      <%= yield %>
-    </div>
-    <!-- End of Content -->
   </body>
 </html>

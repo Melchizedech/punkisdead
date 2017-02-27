@@ -29,7 +29,7 @@ il y a de cela un an et demi. Grand bien m'en a fait de l'écouter, je ne pense 
 Alors pourquoi j'adore ce groupe ? Premier argument, clique sur le bouton *Play* juste en dessous.
 <br/><br/>
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2135317898/size=small/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://daitro.bandcamp.com/album/y">Y by Daitro</a></iframe>
+<iframe class="bandcamp-small" src="https://bandcamp.com/EmbeddedPlayer/album=2135317898/size=small/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://daitro.bandcamp.com/album/y">Y by Daitro</a></iframe>
 <br/><br/>
 
 Ensuite je suis vraiment fan de ce type de chant. Tantôt parlé ([**Trois murs pour la salle de torture**](https://daitro.bandcamp.com/track/trois-murs-pour-la-salle-de-torture)), tantôt screamé ([**Nous ne participons pas tous ici à la même utopie**](https://daitro.bandcamp.com/track/nous-ne-participons-pas-tous-ici-a-la-m-me-utopie)),
@@ -38,7 +38,7 @@ la voix me prend aux tripes, ce "désespoir" est vraiment génial. Les lyrics, e
 Les mélodies sont puissantes, entraînantes. Préférence personnelle, j'adore les passages de batterie où il ne frappe que le contour de sa caisse claire ([**Y - 3**](https://daitro.bandcamp.com/track/y-3) par exemple). Je ne sais pas comment vous convaincre plus d'écouter, à part vous mettre un lien vers [**Les orbites en éveil**](https://daitro.bandcamp.com/track/les-orbites-en-eveil).
 <br/><br/>
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=717699499/size=small/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://daitro.bandcamp.com/album/laisser-vivre-les-squelettes">Laisser Vivre Les Squelettes by Daitro</a></iframe>
+<iframe class="bandcamp-small" src="https://bandcamp.com/EmbeddedPlayer/album=717699499/size=small/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://daitro.bandcamp.com/album/laisser-vivre-les-squelettes">Laisser Vivre Les Squelettes by Daitro</a></iframe>
 <br/><br/>
 
 Vous pouvez trouver une interview de Julien (guitariste-chanteur) à cette adresse : [https://boringxemo.blogspot.fr/2016/08/julien-paget-on-essential-daitros_15.html]()
