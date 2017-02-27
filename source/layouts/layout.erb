@@ -45,23 +45,25 @@
 
     <div style="container">
       <!-- Menu -->
-        <div id="menu" class="pull-left col-xs-4 col-md-4">
+        <div class="affix pull-left col-xs-4 col-md-4 menu">
           <div class="pull-right col-md-6">
-          <h2>Conseils</h2>
-          <%= partial 'conseils' %>
+            <h2>Conseils</h2>
+            <%= partial 'conseils' %>
 
-          <h2>Archives</h2>
-          <%= partial 'archives' %>
+            <h2>Archives</h2>
+            <%= partial 'archives' %>
 
-          <h2>Liens</h2>
-          <%= partial 'liens' %>
+            <h2>Liens</h2>
+            <%= partial 'liens' %>
+          </div>
         </div>
-      </div>
       <!-- End of menu -->
 
       <!-- Content -->
-      <div id="content" class="col-xs-8 col-md-8">
-        <%= yield %>
+      <div class="col-xs-8 col-md-8 content">
+        <div class="col-xs-8 col-md-8">
+          <%= yield %>
+        </div>
       </div>
       <!-- End of Content -->
     </div>
