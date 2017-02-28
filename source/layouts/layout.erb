@@ -25,14 +25,20 @@
   <body class="<%= page_classes %>">
 
     <!-- Header -->
-    <nav class="navbar-inverse navbar-default navbar-fixed-top">
+    <nav class="navbar navbar-inverse navbar-default navbar-fixed-top">
       <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
           <a class="navbar-brand" href="/">Punk is Dead <small>association promouvant la scène punk dans les Alpes-Maritimes</small></a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
             <li><%= link_to 'Accueil', '/' %></li>
             <li><%= link_to 'Prochains concerts', '/concerts.html' %></li>
@@ -44,28 +50,34 @@
     <!-- End of Header -->
 
     <div style="container">
+      <div class="row">
       <!-- Menu -->
-        <div class="affix pull-left col-xs-4 col-md-4 menu">
-          <div class="pull-right col-md-6">
-            <h2>Conseils</h2>
-            <%= partial 'conseils' %>
+        <div class="col-md-1"></div>
+        <div class="col-md-2 offset">
+          <h2 class="top-title">Conseils</h2>
+          <%= partial 'conseils' %>
 
-            <h2>Archives</h2>
-            <%= partial 'archives' %>
+          <h2>Archives</h2>
+          <%= partial 'archives' %>
 
-            <h2>Liens</h2>
-            <%= partial 'liens' %>
-          </div>
-        </div>
+          <h2>Liens</h2>
+          <%= partial 'liens' %>
+        </div
       <!-- End of menu -->
 
       <!-- Content -->
-      <div class="col-xs-8 col-md-8 content">
-        <div class="col-xs-6 col-md-6">
-          <%= yield %>
-        </div>
+      <div class="col-md-5 offset justify">
+        <%= yield %>
       </div>
       <!-- End of Content -->
+
+      <!-- Recommendation -->
+      <div class="col-md-3 recommendations offset">
+        <h2 class="top-title">Aujourd'hui, on écoute</h2>
+        <%= partial 'recommendations' %>
+      </div>
+    </div>
+      <!-- End of Recommendation -->
     </div>
   </body>
 </html>

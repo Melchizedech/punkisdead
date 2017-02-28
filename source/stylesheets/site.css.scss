@@ -1,27 +1,27 @@
+@import "bootstrap-sprockets";
 @import "bootstrap";
 
 body { padding-top: 50px; }
 
-
-.content {
-  text-align: justify;
-  padding-top: 5%;
-  float: right;
-}
-
-.menu {
-  padding-top: 5%;
+.offset {
+  padding-top: 50px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 img {
   max-width: 100%;
 }
 
+.top-title {
+  margin-top: 0;
+}
+
 .archives {
   padding-left: 10px;
 }
 
-.conseils {
+.justify {
   text-align: justify;
 }
 
@@ -39,6 +39,12 @@ img {
    border: 0;
    width: 100%;
    height: 42px;
+}
+
+.bandcamp-big {
+  border: 0;
+  width: 350px;
+  height: 687px;
 }
 
 a {

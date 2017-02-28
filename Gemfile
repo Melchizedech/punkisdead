@@ -20,4 +20,5 @@ gem 'builder', "~> 3.0"
 gem 'therubyracer'
 gem 'nokogiri'
 gem 'bootstrap-sass'
+gem 'jquery-middleman'
 gem 'rb-inotify'
