@@ -1,14 +1,14 @@
 ---
 pageable: true
 ---
-<h1>Archives pour
+<h1>Archives
   <% case page_type
      when 'day' %>
-    le <%= I18n.localize(Date.new(year, month, day), format: '%e %b %Y') %>
+    du <%= I18n.localize(Date.new(year, month, day), format: '%e %B %Y') %>
   <% when 'month' %>
-    <%= I18n.localize(Date.new(year, month, 1), format: '%b %Y') %>
+    de <%= I18n.localize(Date.new(year, month, 1), format: '%B %Y') %>
   <% when 'year' %>
-    <%= year %>
+    de <%= year %>
   <% end %>
 </h1>
 
@@ -20,11 +20,7 @@ pageable: true
   <% end %>
 <% end %>
 
-<ul>
-  <% page_articles.each_with_index do |article, i| %>
-    <li><%= link_to article.title, article %>, <span><%= I18n.localize(article.date, format: '%b %e') %></span></li>
-  <% end %>
-</ul>
+<%= summary_for_list_of page_articles %>
 
 <% if paginate %>
   <% if next_page %>

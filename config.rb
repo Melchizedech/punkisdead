@@ -69,6 +69,9 @@ end
 #   end
 # end
 
+require "lib/article_helpers"
+helpers ArticleHelpers
+
 # Build-specific configuration
 configure :build do
   # Minify CSS on build

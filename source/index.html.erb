@@ -13,13 +13,7 @@ title: Punk is Dead Association
   <% end %>
 <% end %>
 
-<% page_articles.each_with_index do |article, i| %>
-  <h2><%= link_to article.title, article %></h2>
-  <p>
-    <small><%= article.data.author %>, le <%= I18n.localize(article.date, format: '%a %e %b %R %Y') %></small>
-    <%= article.summary(250) %>
-  </p>
-<% end %>
+<%= summary_for_list_of page_articles %>
 
 <% if paginate %>
   <% if next_page %>
