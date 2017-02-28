@@ -1,14 +1,12 @@
 ---
 title: "Dimanche découverte #1 : Daïtro"
 date: 2017-02-25 11:03 UTC
-tags: daïtro, daitro, punk, emo, lyon, france
+tags: daitro, punk, emo, lyon, france
 category: dimanche
 author: jeff
 image: daitro-logo.png
 description: "Découverte punk de la semaine ! Daïtro, groupe d'émo punk avec des touches screamo de Lyon, France."
 ---
-Oï !
-<br/><br/>
 Aujourd'hui, on met en place une chronique hebdomadaire "Dimanche Découverte", on va vous
 parler d'un groupe qu'une personne de l'association affectionne tout particulièrement.
 <br/><br/>
@@ -41,7 +39,7 @@ Les mélodies sont puissantes, entraînantes. Préférence personnelle, j'adore 
 <iframe class="bandcamp-small" src="https://bandcamp.com/EmbeddedPlayer/album=717699499/size=small/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://daitro.bandcamp.com/album/laisser-vivre-les-squelettes">Laisser Vivre Les Squelettes by Daitro</a></iframe>
 <br/><br/>
 
-Vous pouvez trouver une interview de Julien (guitariste-chanteur) à cette adresse : [https://boringxemo.blogspot.fr/2016/08/julien-paget-on-essential-daitros_15.html]()
+Vous pouvez trouver une interview de Julien (guitariste-chanteur) [**ici**](https://boringxemo.blogspot.fr/2016/08/julien-paget-on-essential-daitros_15.html).
 
 Daïtro a arrêté toutefois, dommage ! Mais, les membres du groupe ont PLEIN d'autres projets : [**Baton Rouge**](https://batonrougeband.bandcamp.com/) (RIP), [**12XU**](https://12xu.bandcamp.com/), [**Abject Object**](https://abjectobject.bandcamp.com/), [**TORINO**](https://wearetorino.bandcamp.com/) et [**Potence**](https://potence.bandcamp.com).
 

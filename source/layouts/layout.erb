@@ -70,7 +70,17 @@
 
       <!-- Content -->
       <div class="col-md-5 offset justify">
+        <% if current_article %>
+          <h2><%= current_article.title %></h2>
+          <small><%= current_article.data.author %>, le <%= I18n.localize(current_article.date, format: '%a %e %b %R %Y') %></small>
+          <br/><br/><br/>
+        <% end %>
+
         <%= yield %>
+
+        <% if current_article %>
+          <p>Tags : <small><%= current_article.tags.map{ |t| link_to(t, "/tags/#{t}")}.join(', ') %></small></p>
+        <% end %>
       </div>
       <!-- End of Content -->
 

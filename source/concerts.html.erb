@@ -1,10 +1,13 @@
+---
+pageable: true
+---
 <h2>Liste des prochains concerts</h2>
 
 <% if paginate && num_pages > 1 %>
-  <p>Page <%= page_number %> of <%= num_pages %></p>
+  <p>Page <%= page_number %> de <%= num_pages %></p>
 
   <% if prev_page %>
-    <p><%= link_to 'Previous page', prev_page %></p>
+    <p><%= link_to 'Page précédente', prev_page %></p>
   <% end %>
 <% end %>
 
@@ -22,6 +25,6 @@
 
 <% if paginate %>
   <% if next_page %>
-    <p><%= link_to 'Next page', next_page %></p>
+    <p><%= link_to 'Page suivante', next_page %></p>
   <% end %>
 <% end %>
