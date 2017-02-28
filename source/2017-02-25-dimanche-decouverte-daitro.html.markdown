@@ -2,7 +2,7 @@
 title: "Dimanche découverte #1 : Daïtro"
 date: 2017-02-25 11:03 UTC
 tags: daïtro, daitro, punk, emo, lyon, france
-categories: dimanche découverte
+category: dimanche
 author: jeff
 image: daitro-logo.png
 description: "Découverte punk de la semaine ! Daïtro, groupe d'émo punk avec des touches screamo de Lyon, France."

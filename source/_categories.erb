@@ -1,0 +1,5 @@
+<ul>
+  <% blog.articles.map { |a| a.data.category }.uniq.each do |category| %>
+    <li><%= link_to category.capitalize, "/categories/#{category}" %></li>
+  <% end %>
+</ul>

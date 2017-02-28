@@ -43,6 +43,14 @@ activate :blog do |blog|
   blog.paginate = true
   blog.per_page = 10
   blog.page_link = "page/{num}"
+
+
+  blog.custom_collections = {
+  category: {
+    link: '/categories/{category}.html',
+    template: '/category.html'
+  }
+}
 end
 
 page "/feed.xml", layout: false
