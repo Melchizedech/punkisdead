@@ -4,7 +4,7 @@
     <% if year == Time.now.year %>
       <ul class="archives">
         <% articles.group_by { |a| a.date.month }.each do |month, articles_m| %>
-          <li><%= link_to Date::MONTHNAMES[month], blog_month_path(year, month) %> (<%= articles_m.size %>)</li>
+          <li><%= link_to I18n.t(Date::MONTHNAMES[month].to_s), blog_month_path(year, month) %> (<%= articles_m.size %>)</li>
           <% if month == Time.now.month %>
             <ul class="archives">
               <% articles_m.each do |a| %>
