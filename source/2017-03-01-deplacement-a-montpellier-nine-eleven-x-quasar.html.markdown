@@ -1,7 +1,7 @@
 ---
 title: "Déplacement : NINE ELEVEN x QUASAR"
 date: 2017-03-01 18:34 UTC
-tags: deplacement, punk hardcore, montpellier, nine eleven, quasar, france
+tags: deplacement, punk hardcore, montpellier, nine eleven, quasar, france, concerts
 category: "sur la route"
 author: Jeff
 image: flyer.jpg
@@ -24,7 +24,7 @@ Novembre 2004, Nine Eleven naît des cendres encore fraiches des groupes No Time
 <iframe class="bandcamp-large" src="https://bandcamp.com/EmbeddedPlayer/track=190015354/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://nineeleven.bandcamp.com/track/sentinels">SENTINELS by NINE ELEVEN</a></iframe>
 <br/>
 
-###[Quasar](https://www.facebook.com/wearequasar/) (Screamo Hardcore - Montpellier)
+###[Quasar](https://www.facebook.com/wearequasar/) (Screamo Hardcore, Montpellier)
 
 Formé en 2013, Quasar est un groupe porté par cinq potes montpelliérains. Leur musique flirte sans timidité avec le post-hardcore et me modern-hardcore, jouant avec plaisir et férocité leurs lots de chaos, de dissonances et d'émotions arrachées. Pour dynamiser leur démarche, un premier EP est rapidement auto-produit en mars 2014 ainsi que plusieurs participations à des compilations. En octobre 2016, ils affirment leur direction musicale avec leur nouvel EP "Fondation".
 
