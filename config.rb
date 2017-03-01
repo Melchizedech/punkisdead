@@ -21,7 +21,8 @@ page '/*.txt', layout: false
 ###
 activate :directory_indexes
 activate :i18n, langs: [:fr], lang_map: { 'fr': 'fr' }, path: 'locales'
-
+activate :asset_hash
+activate :gzip
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
