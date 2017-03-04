@@ -10,8 +10,8 @@ module ArticleHelpers
 
   def footer_for(article)
     footer = "<p>Tags : <small>"
-    footer += article.tags.map{ |t| link_to(t, "/tags/#{t}")}.join(', ')
-    footer += "</small></p>"
+    footer += article.tags.map{ |t| link_to(t, "/tags/#{t.gsub('\'', '-')}")}.join(', ')
+    footer += ".</small></p>"
     footer
   end
 
