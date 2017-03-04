@@ -1,18 +1,26 @@
 #!/bin/bash
 
-echo "Building"
-middleman build --clean --verbose
+logfile="/var/log/middleman.log"
+middleman_dir=/home/punkisdead/punkisdead
+
+cd $middleman_dir
+
+echo "$(date) - Loading RVM env" >> $logfile
+source $(~/.rvm/bin/rvm env --path -- middleman)
+
+echo "$(date) - Refreshing" >> $logfile
+git pull
+
+echo "$(date) - Building" >> $logfile
+middleman build --verbose --clean
+
 if [[ ! $? -eq 0 ]]
 then
-  echo "Could not build website, exiting."
+  echo "$(date) - Could not build website, exiting." >> $logfile
   exit 1
+else
+  echo "$(date) - Deployed" >> $logfile
+  exit 0
 fi
-echo "Tarzipping website"
-tar zcf punkisdead.tar.gz build
-echo "Transmitting tarzip"
-scp -P 2206 punkisdead.tar.gz root@punkisdead.fr:/root/
-echo "Deploying website"
-ssh -p 2206 root@punkisdead.fr 'tar xzf punkisdead.tar.gz && rm -rf /var/www/punkisdead && mv build /var/www/punkisdead && chown -R www-data:www-data /var/www/punkisdead && rm punkisdead.tar.gz'
-echo "Cleaning local"
-rm punkisdead.tar.gz
-echo "Deployed"
+
+cd -
