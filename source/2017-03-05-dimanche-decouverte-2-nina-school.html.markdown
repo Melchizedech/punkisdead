@@ -1,6 +1,6 @@
 ---
 title: "Dimanche découverte #2 : Nina'School"
-date: 2017-03-05 10:00 UTC
+date: 2017-03-05 09:00 UTC
 tags: nina'school, punk, rock, bordeaux, france
 category: dimanche
 author: Jeff
