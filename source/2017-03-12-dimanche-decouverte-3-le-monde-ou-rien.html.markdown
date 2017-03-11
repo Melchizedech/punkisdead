@@ -8,7 +8,7 @@ image: logo-le-monde-ou-rien.jpg
 description: "Découverte punk de la semaine ! Compilation 'Le monde ou rien' par Le Dictionnaire de l'émo"
 ---
 
-![Logo](2017-03-11-dimanche-decouverte-3-le-monde-ou-rien/logo-le-monde-ou-rien-cropped.jpg)
+![Logo](2017-03-12-dimanche-decouverte-3-le-monde-ou-rien/logo-le-monde-ou-rien-cropped.jpg)
 <br/><br/>
 
 Nouveau dimanche, nouvelle chronique ! En ce dimanche 12 mars, je vous présente "Le monde ou rien", un projet, une compilation réalisée par [**le dictionnaire de l'emo**](https://ledictionnairedelemo.blogspot.fr/). Elle est parue le 19 Septembre 2016 et contient la bagatelle de 42 titres, rien que ça. Que du bon, du très bon et du lourd. Comme si ça ne suffisait pas, elle est en [libre téléchargement](http://www.mediafire.com/file/qp10yx7s22a76r0/le+dictionnaire+de+l%27emo+-+Le+monde+ou+rien+-+2016.zip) avec un fanzine à l'intérieur (si t'aimes bien la lecture).
