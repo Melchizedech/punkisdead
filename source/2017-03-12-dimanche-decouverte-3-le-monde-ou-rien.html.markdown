@@ -1,5 +1,5 @@
 ---
-title: "Dimanche Découverte #3 : Le monde ou rien"
+title: "Dimanche découverte #3 : Le monde ou rien"
 date: 2017-03-12 09:30 UTC
 tags: compilation, punk, hardcore, france
 category: dimanche

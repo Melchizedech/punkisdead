@@ -1,5 +1,5 @@
 ---
-title: "Dimanche Découverte #4 : I.M.O.D.I.U.M"
+title: "Dimanche découverte #4 : I.M.O.D.I.U.M"
 date: 2017-03-19 07:14 UTC
 tags: punk, grunge, monaco
 category: dimanche
