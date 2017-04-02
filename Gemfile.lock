@@ -33,6 +33,7 @@ GEM
     fast_blank (1.0.0)
     fastimage (2.1.0)
     ffi (1.9.17)
+    growl (1.0.3)
     haml (4.0.7)
       tilt
     hamster (3.0.0)
@@ -128,16 +129,16 @@ PLATFORMS
 DEPENDENCIES
   bootstrap-sass
   builder (~> 3.0)
+  growl
   jquery-middleman
   middleman (~> 4.1)
   middleman-blog
   middleman-livereload
   nokogiri
-  rb-inotify
   redcarpet (~> 3.3, >= 3.3.3)
   therubyracer
   tzinfo-data
   wdm (~> 0.1.0)
 
 BUNDLED WITH
-   1.14.5
+   1.14.6

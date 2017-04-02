@@ -21,4 +21,5 @@ gem 'therubyracer'
 gem 'nokogiri'
 gem 'bootstrap-sass'
 gem 'jquery-middleman'
-gem 'rb-inotify'
+gem 'libnotify' if /linux/ =~ RUBY_PLATFORM
+gem 'growl' if /darwin/ =~ RUBY_PLATFORM
