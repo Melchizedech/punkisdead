@@ -28,6 +28,12 @@ Après 2 ans de conneries, ces gentils keupons ont enfin sorti leur 1er effort, 
 <iframe class="bandcamp-large" src="https://bandcamp.com/EmbeddedPlayer/album=578129701/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://parkinsonpunkrock.bandcamp.com/album/membrax-park-in-son">Membrax / Park in Son by Park in Son</a></iframe>
 <br/>
 
+###[Demande à ta mère](https://www.facebook.com/datmpunkrock/) (Ska Punk - Fayence)
+La formation fayençoise fait de la musique festive pleine de bonne humeur à laquelle on ajoute une zeste de nostalgie de nos années d'insouciance ainsi que l'amour inconditionnel pour la bière ! Leurs influences vont de NOFX à Guerilla Poubelle en passant par Chocking Victim !
+Pour écouter : [**Soundcloud**](https://soundcloud.com/demande-a-ta-m-re)
+<br/>
+
+
 ###AEG (Punk-rock, Vence)
 Même si ce groupe est peu présent sur la toile, ils existent bien depuis 15 ans et ont toujours été actifs dans la scène locale ! Ils joue du Punk Rock à la fois rapide et mélodique que les fans de NOFX apprécieront !
 <br/>
