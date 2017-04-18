@@ -30,7 +30,8 @@ Après 2 ans de conneries, ces gentils keupons ont enfin sorti leur 1er effort, 
 
 ###[Demande à ta mère](https://www.facebook.com/datmpunkrock/) (Ska Punk - Fayence)
 La formation fayençoise fait de la musique festive pleine de bonne humeur à laquelle on ajoute une zeste de nostalgie de nos années d'insouciance ainsi que l'amour inconditionnel pour la bière ! Leurs influences vont de NOFX à Guerilla Poubelle en passant par Chocking Victim !
-Pour écouter : [**Soundcloud**](https://soundcloud.com/demande-a-ta-m-re)
+@br/#
+Pour écouter : [**Soundcloud**](https://soundcloud.com/demande-a-ta-m-re).
 <br/>
 
 
