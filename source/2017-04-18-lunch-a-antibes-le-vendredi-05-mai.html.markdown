@@ -5,11 +5,11 @@ concert_date: 2017-05-05
 tags: concerts, park in son, demande à ta mère, lunch, aeg, punk
 category: concerts
 author: Jeff
-image: flyer-crop.png
+image: flyer-crop.jpg
 description: "Événement : concert à Antibes (Lunch, Park in Son, Demande à ta mère et AEG) le 5 mai / PAF 5€"
 ---
 
-[![Flyer](2017-04-18-lunch-a-antibes-le-vendredi-05-mai/flyer-crop.png)](2017-04-18-lunch-a-antibes-le-vendredi-05-mai/flyer.png)
+[![Flyer](2017-04-18-lunch-a-antibes-le-vendredi-05-mai/flyer-crop.jpg)](2017-04-18-lunch-a-antibes-le-vendredi-05-mai/flyer.png)
 
 Punk is Dead vous présente sa seconde soirée, à l'Hacienda encore une fois !
 5€ la soirée : 4 groupes, des bons moments et faire bouger la scène locale ! C'est pas cher payé !
