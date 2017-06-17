@@ -149,7 +149,7 @@ Pas de bol, à ce moment-là, [**Poésie Zéro**](https://www.facebook.com/poesi
 
 *Breakout :* Split... Y en a trop.
         Je sais pas ce qu'on voudrait faire. J'aimerai bien avec un groupe, un jeune groupe, qui commence. Mais pas français. Histoire de faire un échange de scène. On a pas mal de potes, [**ACIDEZ**](https://acidezpunx.bandcamp.com/) par exemple (un groupe mexicain), faire un split avec eux ça pourrait être marrant.
-        Ouais aussi, même si on ne leur a jamais parlé.
+        Ouais aussi, même si on ne leur en a jamais parlé.
 
 
 *Jeff :* Eh bien maintenant que je vous ai mis l'idée, il ne reste plus qu'à sortir cet EP !
