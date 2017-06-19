@@ -112,14 +112,20 @@ Pas de bol, à ce moment-là, [**Poésie Zéro**](https://www.facebook.com/poesi
        C'est toujours bien d'avoir des traces musicales, ça montre que vous êtes passés là et que vous avez modelé la scène. Les gens qui sont venus à vos concerts qui se sont dit "putain, c'est ça que je veux faire" et qui donneront à leur tour un nouveau style de punk éventuellement.
 
 
-*Breakout :* Ce serait cool. Y a déjà un groupe qui s'appelle [**STATELESS**](https://soundcloud.com/elgaz-1) et qui nous a un peu dit ça.
+*Breakout (plusieurs voix):* Ce serait cool. Y a déjà un groupe qui s'appelle [**STATELESS**](https://soundcloud.com/elgaz-1) et qui nous a un peu dit ça.
        Ce sont des potes.
+       <br/>
        Ah ouais, ils ont dit quoi ?
+       <br/>
        bah justement, on leur avait donné envie, on les avait motivés.
+       <br/>
        Ah bah c'est cool, c'est des potes à nous et j'apprends ça.
        Ils viennent de sortir leur EP.
+       <br/>
        Ecoutez [**STATELESS**](https://soundcloud.com/elgaz-1) !
+       <br/>
        Mais ce qui est cool, c'est qu'au moins on a sorti un album, c'est ce qu'on voulait faire, on laisse une trace derrière nous. Là on commence à penser à sortir un second album. On va laisser des traces, c'est cool.
+       <br/>
        Mais bon c'est pas fini encore !
 
 
