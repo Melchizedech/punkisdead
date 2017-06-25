@@ -36,7 +36,13 @@ Projet folk éphémère de reprises punk/rock en acoustique !
 <br/>
 
 ###[Park in Son](https://facebook.com/parkinsonpunk) — Punk/Rock (Antibes)
-Cette fois-ci, ils vont devoir laisser le set de batterie à la maison, baisser le son de leurs instruments et chanter convenablement. Est-ce que ce sera aussi bien alors ?
+C'est l'été, pas le courage de s'enfermer dans une cave pour répéter, les Park in Son ont donc troqué leurs guitares et amplis contre des trucs en bois avec des cordes pour jouer sur la plage...
+
+Si jamais t'as pas de place pour étendre ta serviette, ils peuvent t'en faire une en moins de deux avec leur set acou-d'stick.
+
+Il manque juste la disto pour cacher les fausses notes...
+
+Un concert unique en Europe ! (sauf s'ils arrivent à faire de l'argent et/ou draguer avec...)
 <iframe class="bandcamp-large" src="https://bandcamp.com/EmbeddedPlayer/album=578129701/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://parkinsonpunkrock.bandcamp.com/album/membrax-park-in-son">Membrax / Park in Son by Park in Son</a></iframe>
 <br/>
 
