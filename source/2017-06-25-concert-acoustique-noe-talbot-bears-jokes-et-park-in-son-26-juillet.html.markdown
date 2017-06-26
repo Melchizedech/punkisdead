@@ -25,6 +25,7 @@ Support your local (punk) scene !
 <br/>
 
 ###[Noé Talbot](https://facebook.com/noetalbot) — Folk/Punk/Rock (Québec)
+Tu as pu le croiser dans [**Fortune Cookie Club**](https://www.facebook.com/fortunecookieclub/) ou dans [**Col Rouge**](https://www.facebook.com/colrougemusique/) mais il a aussi monté son projet perso' ! Conseil d'ami, va y jeter un œil ou tendre une oreille, ça vaut le détour ! En attendant, on scandera "On vieillit tous plus vite qu'on aimerait le croire !"
 <iframe class='bandcamp-large' src="https://bandcamp.com/EmbeddedPlayer/album=2931563015/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://noetalbot.bandcamp.com/album/d-baller-le-pr-sent">Déballer le présent by Noé Talbot</a></iframe>
 <br/>
 
