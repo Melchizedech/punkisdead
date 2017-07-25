@@ -5,15 +5,15 @@ tags: concerts, park in son, IMODIUM, altitude, warmcans, punk
 concert_date: 2017-08-10
 category: concerts
 author: Jeff
-image: flyer-crop.jpg
+image: flyer-crop.png
 description: "Événement : concert à Antibes (IMODIUM, Altitude, WarmCans et Park in Son) le 10 août / PAF 5€"
 ---
 
 
-[![Flyer](2017-04-18-lunch-a-antibes-le-vendredi-05-mai/flyer-crop.jpg)](2017-04-18-lunch-a-antibes-le-vendredi-05-mai/flyer.png)
+[![Flyer](2017-07-25-i-m-o-d-i-u-m-altitude-warmcans-et-park-in-son-10-aout/flyer-crop.png)](2017-07-25-i-m-o-d-i-u-m-altitude-warmcans-et-park-in-son-10-aout/flyer.png)
 
 
-Revoici [**Punk is Dead Asso**](https://facebook.com/punkisdeadassos) pour sa 4ème orga (seulement 2 semaines après la 3ème !?). On a décidé de mettre les petits plats dans les grands, vous n'en serez pas déçu.e.s.
+Revoici [**Punk is Dead Asso**](https://facebook.com/punkisdeadassos) pour sa [**4ème orga**](https://www.facebook.com/events/1602994796412568) (seulement 2 semaines après la 3ème !?). On a décidé de mettre les petits plats dans les grands, vous n'en serez pas déçu.e.s.
 
 Ça se passe à La Hacienda , le jeudi 10 août, début des festivités à 21h.
 PAF de 5€ !
@@ -50,6 +50,10 @@ En plus tu sais quoi ? C'est leur DERNIER concert. Tu louperas pas ça, hein !?
 Après 2 ans de conneries, ces gentils keupons ont enfin sorti leur 1er effort, à savoir un split avec MEMBRAX qui les représente plutôt bien : simple, energique et sans prise de tête !
 <iframe class="bandcamp-large" src="https://bandcamp.com/EmbeddedPlayer/album=578129701/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://parkinsonpunkrock.bandcamp.com/album/membrax-park-in-son">Membrax / Park in Son by Park in Son</a></iframe>
 <br/>
+
+Lien vers l’[**évènement Facebook**](https://www.facebook.com/events/1602994796412568/).
+
+
 
 ####Accès à la salle
 La Hacienda Rocks (2721 Chemin de Saint-Claude, Antibes)
