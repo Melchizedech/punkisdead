@@ -3,24 +3,10 @@ pageable: true
 ---
 <h2>Liste des prochains concerts</h2>
 
-<% if paginate && num_pages > 1 %>
-  <p>Page <%= page_number %> de <%= num_pages %></p>
-
-  <% if prev_page %>
-    <p><%= link_to 'Page précédente', prev_page %></p>
-  <% end %>
-<% end %>
-
-<% concerts = blog.articles.select{ |a| a.data.concert_date && a.data.concert_date > Time.now.at_midnight} %>
+<% concerts = blog.articles.select{ |a| a.data.concert_date && a.data.concert_date > Time.now.at_midnight } %>
 
 <% if concerts.empty? %>
   <p>Hélas, rien de prévu pour le moment ! Mais ça ne saurait trop tarder. Dans le doute, si tu veux nous proposer quelque chose, <b><%= link_to 'n\'hésite pas', '/contact.html' %></b>.</p>
 <% else %>
   <%= summary_for_list_of concerts %>
-<% end %>
-
-<% if paginate %>
-  <% if next_page %>
-    <p><%= link_to 'Page suivante', next_page %></p>
-  <% end %>
 <% end %>
