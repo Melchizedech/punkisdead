@@ -15,7 +15,7 @@ description: "Événement : concert à Antibes (IMODIUM, Altitude, WarmCans et P
 
 Revoici [**Punk is Dead Asso**](https://facebook.com/punkisdeadassos) pour sa [**4ème orga**](https://www.facebook.com/events/1602994796412568) (seulement 2 semaines après la 3ème !?). On a décidé de mettre les petits plats dans les grands, vous n'en serez pas déçu.e.s.
 
-Ça se passe à La Hacienda , le jeudi 10 août, début des festivités à 21h.
+Ça se passe à La Hacienda, le jeudi 10 août, début des festivités à 21h.
 PAF de 5€ !
 
 
