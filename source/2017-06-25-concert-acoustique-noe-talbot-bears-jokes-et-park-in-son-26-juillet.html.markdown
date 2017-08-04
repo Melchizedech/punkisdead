@@ -7,7 +7,6 @@ category: concerts
 author: Jeff
 image: banniere-noe.png
 description: "Événement : concert à Grasse (Noé Talbot, Bears & Jokes et Park in Son) le 26 juillet / prix libre"
-draft: true
 ---
 [![Bannière concert](2017-06-25-concert-acoustique-noe-talbot-bears-jokes-et-park-in-son-26-juillet/banniere-noe.png)](2017-06-25-concert-acoustique-noe-talbot-bears-jokes-et-park-in-son-26-juillet/affiche-noe.png)
 
