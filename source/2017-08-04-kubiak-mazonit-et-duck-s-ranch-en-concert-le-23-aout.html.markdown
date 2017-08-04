@@ -32,10 +32,12 @@ Mazonit est un groupe jouant une pop-punk efficace et doucement rageuse, formé 
 Après 2 ans de conneries, ces gentils keupons ont enfin sorti leur 1er effort, à savoir un split avec MEMBRAX qui les représente plutôt bien : simple, energique et sans prise de tête !
 <iframe class='bandcamp-large' src="https://bandcamp.com/EmbeddedPlayer/album=1772362070/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://mazonitpoppunk.bandcamp.com/album/by-your-side">By Your Side by MAZONIT</a></iframe>
 
-###[Duck's Ranch](https://www.facebook.com/Ducksranch/) (???)
-???
+###[Duck's Ranch](https://www.facebook.com/Ducksranch/) (Pop-punk-rock, Antibes)
+Groupe de Punk-rock du Sud Est formé au printemps 2012 Duck's Ranch (oui c'est une référence à Blink) sort très vite, trop vite un premier album — Rising farm. Après plusieurs concerts en PACA le groupe se sépare en 2014. Été 2017 Romain, le batteur, Père de famille idéal rappelle son vieux compère Gaby fraîchement recruté dans Park in Son, pour remonter le groupe.
+
+Au passage ils recrutent un mignon petit garçon des rues plein de talent à la basse, Nico guitariste de Warmcans, à eux 3 ils tentent un virage pop punk très serré tout en conservant le Punk rock d'origine, gare à la chute !
 <br/>
-???
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EoMS9c9KbnY" frameborder="0" allowfullscreen></iframe>
 <br/>
 
 Lien vers l’[**évènement Facebook**](https://www.facebook.com/events/113342315992655/).
