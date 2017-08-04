@@ -1,6 +1,6 @@
 ---
 title: Kubiak, Mazonit et Duck's Ranch en concert le 23 août !
-date: 2017-08-04 06:31 UTC
+date: 2017-08-04 08:31 UTC
 concert_date: 2017-08-23
 tags: concert, kubiak, mazonit, duck's ranch, antibes, pop punk, punk rock
 category: concerts
