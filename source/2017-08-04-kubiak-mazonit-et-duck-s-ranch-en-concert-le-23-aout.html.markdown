@@ -5,10 +5,12 @@ concert_date: 2017-08-23
 tags: concert, kubiak, mazonit, duck's ranch, antibes, pop punk, punk rock
 category: concerts
 author: Jeff
-image: banniere-mazonit.png
+image: flyer-crop.png
 description: "Événement : concert punk à Antibes (Kubiak, Mazonit et Duck's Ranch) le 23 août / 5€"
 
 ---
+
+[![Flyer](2017-08-04-kubiak-mazonit-et-duck-s-ranch-en-concert-le-23-aout/flyer-crop.png)](2017-08-04-kubiak-mazonit-et-duck-s-ranch-en-concert-le-23-aout/flyer.png)
 
 Eh salut ! On ne s'arrête plus ! Notre cinquième soirée est pour le mercredi 23 août, dans 3 semaines !
 
