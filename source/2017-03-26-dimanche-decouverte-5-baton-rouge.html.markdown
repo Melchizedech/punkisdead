@@ -1,7 +1,7 @@
 ---
 title: "Dimanche découverte #5 : Baton Rouge"
 date: 2017-03-26 08:00 UTC
-tags: punk, emo, france
+tags: punk, emo, france, baton rouge
 category: dimanche
 image: logo-baton-rouge.jpg
 author: Arnaud

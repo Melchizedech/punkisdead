@@ -1,7 +1,7 @@
 ---
 title: "Dimanche découverte #4 : I.M.O.D.I.U.M"
 date: 2017-03-19 07:14 UTC
-tags: punk, grunge, monaco
+tags: punk, grunge, monaco, IMODIUM
 category: dimanche
 author: Jeff
 image: logo-imodium.png
