@@ -1,5 +1,5 @@
 ---
-title: After de Val #4 — I.M.O.D.I.U.M
+title: 'After de Val #4 — I.M.O.D.I.U.M'
 date: 2017-08-18 06:58 UTC
 tags: interview, acoustique, IMODIUM, punk, grunge
 category: interview

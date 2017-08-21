@@ -1,5 +1,5 @@
 ---
-title: After de Val #3 — WarmCans
+title: 'After de Val #3 — WarmCans'
 date: 2017-08-18 06:58 UTC
 tags: interview, acoustique, warmcans, punk, ska
 category: interview
