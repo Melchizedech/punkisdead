@@ -61,7 +61,7 @@ Pour avoir accès à l'événement Facebook, laissez-nous un message par [**cour
 
 ATELIER 81 (Espace Modus - 1 rue Oscar 2 06000, Nice)
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=7.254712879657746%2C43.70312028704208%2C7.256965935230256%2C43.70457649446036&amp;layer=mapnik&amp;marker=43.703848395172805%2C7.255839407444" class="openstreetmap"></iframe>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=7.254712879657746%2C43.70312028704208%2C7.256965935230256%2C43.70457649446036&amp;layer=mapnik&amp;marker=43.703848395172805%2C7.255839407444" class="openstreetmap"></iframe>
 <br/>
 
 ####Soirée privée réservée aux adhérents
