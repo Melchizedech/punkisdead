@@ -1,7 +1,6 @@
 ---
 title: "Concert privé : I.M.O.D.I.U.M, Duck's Ranch, Tapinage Nocturne et Kubiak !"
 date: 2017-12-05 18:39 UTC
-tags:
 concert_date: 2017-12-23
 tags: concert, imodium, tapinage nocturne, kubiak, nice, duck's ranch, punk rock
 category: concerts
