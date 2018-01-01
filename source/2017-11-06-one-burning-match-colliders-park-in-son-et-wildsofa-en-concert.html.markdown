@@ -41,7 +41,7 @@ On peut les écouter [**ici**](https://oneburningmatch.bandcamp.com/), les voir 
 Après avoir enchainé au moins 5 concerts en 8 mois, on a fait une petite pause déjà... Faut pas déconner non plus. Et puis, on a composé des nouveaux morceaux aussi un peu. Toujours du punk-rock à pleine balle (ou à 2 balles, c'est selon) en français. On aime beaucoup Justine, NOFX, Véronique Sanson, Guerilla Poubelle, le punk à roulette et GG Allin (enfin presque).
 
 Bref, nouveau set, nouveaux pains ! Viens !
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=578129701/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://parkinsonpunkrock.bandcamp.com/album/membrax-park-in-son">Membrax / Park in Son by Park in Son</a></iframe>
+<iframe class='bandcamp-large' src="https://bandcamp.com/EmbeddedPlayer/album=578129701/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://parkinsonpunkrock.bandcamp.com/album/membrax-park-in-son">Membrax / Park in Son by Park in Son</a></iframe>
 <br/>
 
 ###[Cølliders](https://www.facebook.com/collidershxc/) (83 / Melodic Hardcore)
